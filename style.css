@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header{
+    box-sizing: border-box;
+    margin: 0;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(78, 160, 255);
+    background-image: url("../html-css-booleaner/img/pattern.png");
+}
+
+header > img{
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+
+main{
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+.writer{
+    color: gray;
+}
+
+#date{
+    font-size: 12px;
+}
+
+.description{
+    font-size: 12px;
+}
+
+ul{
+    padding: 15px;
+}
+
+
+table{
+    width: 100%;
+
+}
+
+.thead > th{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+tbody > .color{
+    background-color: lightskyblue;
+}
+
+footer{
+    margin: 5px;
+}
+
+footer > h4 {
+    color: gray;
+    
+}
+
+footer > div{
+    color: white;
+    font-size: 18px;
+     
+}
+
+.monitor{
+    background-image: url("img/monitor.jpg");
+    width: 270px;
+    height: 208px;
+    background-size: cover;
+
+}
+
+.graph{
+    background-image: url("img/graph.jpg");
+    width: 270px;
+    height: 208px;
+    background-size: cover;
+
+}
