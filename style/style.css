@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+.scrittoda{
+  color: lightgray;  
+}
+
+#data{
+    font-size: 12px;
+}
+
+.description{
+    font-size: 12px;
+}
+
+ul{
+    padding-left: 10px;
+    margin: 0;
+}
+
+footer > h3 {
+    color: lightgray;
+}
+
+footer > div{
+    color: white;
+    font-size: 15px;
+}
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+    width: 250px;
+    height: 100px;
+    background-size: cover;
+
+}
