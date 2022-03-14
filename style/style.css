@@ -20,6 +20,20 @@ ul{
     margin: 0;
 }
 
+table{
+    width: 100%;
+
+}
+
+.thead > th{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+tbody > .color{
+    background-color: lightskyblue;
+}
+
 footer > h4 {
     color: gray;
     
